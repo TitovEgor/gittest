@@ -1,2 +1,3 @@
 # gittest
-Nicolas mini slave
+mini slave
+Дополнительный текст.
